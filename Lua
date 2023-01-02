@@ -1,0 +1,7 @@
+if game.PlaceId == 2753915549 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SIVAKUNG01/E-SAN-BANHAO-HUB-World1/main/World1'))();
+elseif game.PlaceId == 4442272183 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SIVAKUNG01/E-SAN-BANHAO-HUB-World2/main/World2'))();
+elseif game.PlaceId == 7449423635 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SIVAKUNG01/E-SAN-BANHAO-HUB-World3/main/World3'))();
+end
